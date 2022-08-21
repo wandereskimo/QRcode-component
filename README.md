@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Github](https://github.com/wandereskimo/QRcode-component)
-- Live Site URL: [QRcode Component](https://your-live-site-url.com)
+- Live Site URL: [QRcode Component](https://qrcode-component-baesil.netlify.app/)
 
 ## My process
 
